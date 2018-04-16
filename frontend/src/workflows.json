@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Workflow 1",
+    "pages": [
+      {
+        "name": "Page 1",
+        "responseTimeWarning": 2000,
+        "responseTimeCritical": 3000,
+        "addId": 34242
+      }
+    ]
+  }
+]
