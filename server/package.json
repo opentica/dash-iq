@@ -1,4 +1,5 @@
 {
+  "name": "dash-iq-server",
   "scripts": {
     "start": "npm run start-app",
     "start-app":
