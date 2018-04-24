@@ -4,7 +4,7 @@ Custom dashboards and visualizations for AppD analytics data.
 
 ## Get started
 
-* Make sure you have NodeJS installed (you can either install it from https://nodejs.org/en/download/ or install [nvm](https://github.com/creationix/nvm) first, then run `nvm install v9`
+Install NodeJS. You can either install it from https://nodejs.org/en/download/ or install [nvm](https://github.com/creationix/nvm) first, then run `nvm install v9`
 
 **Install dependencies and start the `frontend`:**
 
