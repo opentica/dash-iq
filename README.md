@@ -13,6 +13,7 @@ Install NodeJS. You can either install it from https://nodejs.org/en/download/ o
 * add info to `src/workflows.json` and `src/enterprises.json`
 * create `.env.local` and set `REACT_APP_APPD_SERVER_URL` to point to your server, `REACT_APP_APP_KEY` if you want to restrict which browser app to get metrics from, and `REACT_APP_APPD_SERVER_URL` to point to the controller
 * create `.env.development.local` with the same contents of `.env.local` but without `REACT_APP_APPD_SERVER_URL`
+* `npm start`
 
 **Install dependencies and start the `server`:**
 
